@@ -3,7 +3,7 @@
 ## 📌 Project Overview
 This interactive Power BI dashboard provides a comprehensive analysis of customer churn dynamics, tracking key indicators like disconnections, reconnections, and overall net churn. Designed for business leaders, it delivers actionable insights into monthly operational trends, regional performance, and the primary drivers behind customer attrition for the year 2025.
 
-![Churn Analytics Dashboard](Churn Analytics Dashboard PowerBi.png)
+![Churn Analytics Dashboard Preview](Churn%20Analytics%20Dashboard%20PowerBi.png)
 
 ---
 
